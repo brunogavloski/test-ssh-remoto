@@ -4,3 +4,5 @@
 Bruno ~~
 
 i know how to modificate file and send to github
+
+test of pull comand
